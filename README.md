@@ -1,7 +1,11 @@
 Hi, I’m @giacomolanzi!
-![Avatar]()
+
+<img src="FotoProfilo.jpg" alt="Avatar" width="200" style="float:left; margin-right:15px;" />
+
 I’m interested in WordPress, Web Development and online presence in general. I offer online services for medium and small business.
+
 I’m currently learning to create better content, to code better and to meditate properly.
+
 You can find me though [my website](https://planbproject.it/), my [YouTube channel](http://www.youtube.com/channel/UCcBWFqFHfA59uKPq9JgFF5A) and my [online courses](https://www.udemy.com/user/planbproject/).
 
 <!---
