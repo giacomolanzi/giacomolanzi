@@ -1,10 +1,8 @@
 Hi, I’m @giacomolanzi!
 
-<img src="FotoProfilo.jpg" alt="Avatar" width="200" style="float:left; margin-right:15px;" />
+I’m a webmaster, automation expert, trainer and content creator. I offer an holistic approach to online presence for small to medium businesses.
 
-I’m interested in WordPress, Web Development and online presence in general. I offer online services for medium and small business.
-
-I’m currently learning to create better content, to code better and to meditate properly.
+I’m always learning to improve and create better content, write better code and to implement helpful automation solutions. I'm also in constant search of something new to know, just because I like to be taugh something new!
 
 You can find me though [my website](https://planbproject.it/), my [YouTube channel](http://www.youtube.com/channel/UCcBWFqFHfA59uKPq9JgFF5A) and my [online courses](https://www.udemy.com/user/planbproject/).
 
