@@ -1,6 +1,6 @@
 Hi, I’m @giacomolanzi!
 
-I’m a webmaster, automation expert, trainer and content creator. I offer an holistic approach to online presence for small to medium businesses.
+I’m a webmaster, automation expert, trainer and content creator. I offer a holistic approach to online presence for small to medium businesses.
 
 I’m always learning to improve and create better content, write better code and to implement helpful automation solutions. I'm also in constant search of something new to know, just because I like to be taugh something new!
 
